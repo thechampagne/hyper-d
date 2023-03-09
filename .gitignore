@@ -1,0 +1,14 @@
+.dub
+docs.json
+__dummy.html
+/hyper
+hyper.so
+hyper.dylib
+hyper.dll
+hyper.a
+hyper.lib
+hyper-test-*
+*.exe
+*.o
+*.obj
+*.lst

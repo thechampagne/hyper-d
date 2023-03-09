@@ -1,0 +1,5 @@
+name "hyper"
+description "Binding for hyper an HTTP library"
+authors "XXIV"
+copyright "Copyright © 2023, XXIV"
+license "Apache-2.0"
