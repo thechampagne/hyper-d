@@ -16,4 +16,4 @@ dub add hyper
 
 ### License
 
-This repo is released under the [MIT](https://github.com/thechampagne/hyper-d/blob/main/LICENSE).
+This repo is released under the [Apache-2.0](https://github.com/thechampagne/hyper-d/blob/main/LICENSE).
